@@ -5,6 +5,10 @@ Aviate is an App that can be used by aviators, or meteorological enthusiasts to 
 
 An overview of the App is available by opening the [User guide](../master/UserGuide.md).
 
+## Apple Store
+
+[View on Apple App Store](https://itunes.apple.com/us/app/aviate/id1349238802?ls=1&mt=8)
+
 ## Libraries
 
 * [Reachability](https://github.com/ashleymills/Reachability.swift/blob/master/Reachability/Reachability.swift)
